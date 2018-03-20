@@ -1,3 +1,19 @@
+用 谷歌「AI可解释性」 看懂机器学习 
+
+https://www.leiphone.com/news/201803/9VpB5M5baxeEpBoL.html
+
+论文原址 https://distill.pub/2018/building-blocks/
+
+
+谷歌最新机器学习术语表（上）
+
+https://www.leiphone.com/news/201803/01zalRgbQYSnTWMI.html
+
+谷歌最新机器学习术语表（下）
+
+https://www.leiphone.com/news/201803/nhu19vQoSUkbWGGY.html?type=preview
+
+
 Uber开源「神经演化」可视化工具VINE    
 
   https://www.leiphone.com/news/201803/ZglRw7ifvMEexESB.html
