@@ -1,3 +1,22 @@
+
+
+DeepMind论文抢先看：通过删除神经元来了解深度学习 
+
+https://www.leiphone.com/news/201803/PJH0q2tj8d3jvVIk.html
+
+
+最棒的30个机器学习实例
+
+https://www.leiphone.com/news/201802/Q6s5Q6PRyxLXse5x.html
+
+
+
+关于Python的20个关键词和45个最佳案例
+
+https://www.leiphone.com/news/201802/XlAkDDf0fkHNZMSN.html
+
+
+
 用 谷歌「AI可解释性」 看懂机器学习 
 
 https://www.leiphone.com/news/201803/9VpB5M5baxeEpBoL.html
