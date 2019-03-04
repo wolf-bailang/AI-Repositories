@@ -6,17 +6,17 @@
 [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms--openai](https://github.com/openai/baselines)                                          
 [SURREAL: Open-Source Distributed Reinforcement Learning Framework--Stanford Vision and Learning Lab](https://github.com/SurrealAI/surreal)  
                                                                               
-**Deep Learning**
+**Deep Learning**                                          
                                                                                             
-**NLP**
+**NLP**                             
 [tensorflow_practice/nlp--princewen](https://github.com/princewen/tensorflow_practice/tree/master/nlp)
 
                                                                                                              
-**GAN**
+**GAN**                                    
 [tensorflow_practice/GAN--princewen](https://github.com/princewen/tensorflow_practice/tree/master/GAN)
                                                            
-**Computer Vision**
+**Computer Vision**                            
 [tensorflow_practice/CV--princewen](https://github.com/princewen/tensorflow_practice/tree/master/CV)
 
-**Recommendation**   
+**Recommendation**                                 
 [tensorflow_practice/recommendation--princewen](https://github.com/princewen/tensorflow_practice/tree/master/recommendation)
