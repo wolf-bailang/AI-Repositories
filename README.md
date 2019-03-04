@@ -4,5 +4,5 @@
 [Reinforcement-learning-with-tensorflow--MorvanZhou](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)                                                      
 [tensorflow_practice/RL--princewen](https://github.com/princewen/tensorflow_practice/tree/master/RL)                                                               
 [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms--openai](https://github.com/openai/baselines)                                          
-
+[SURREAL: Open-Source Distributed Reinforcement Learning Framework--Stanford Vision and Learning Lab](https://github.com/SurrealAI/surreal)  
 
