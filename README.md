@@ -28,6 +28,7 @@
 **Recommendation**                                 
 [tensorflow practice/recommendation---princewen](https://github.com/princewen/tensorflow_practice/tree/master/recommendation)             
 [sequence based recommendations---rdevooght](https://github.com/rdevooght/sequence-based-recommendations)                                   
-[RecQ: A Python Framework for Recommender Systems (TensorFlow Based)---Coder-Yu](https://github.com/Coder-Yu/RecQ)                     [Recommender Systems---Microsoft](https://github.com/Microsoft/Recommenders)                                        
+[RecQ: A Python Framework for Recommender Systems (TensorFlow Based)---Coder-Yu](https://github.com/Coder-Yu/RecQ)                            
+[Recommender Systems---Microsoft](https://github.com/Microsoft/Recommenders)                                        
  
 
