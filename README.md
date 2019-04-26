@@ -8,7 +8,8 @@
 [Deep Reinforcement Learning Algorithms with PyTorch---p-christ](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)                                   
                                                                               
 **Deep Learning**                                          
-[Deep Learning 500 questions: 深度学习500问---scutan90](https://github.com/scutan90/DeepLearning-500-questions)
+[Deep Learning 500 questions: 深度学习500问---scutan90](https://github.com/scutan90/DeepLearning-500-questions)                                         
+[Deep Learning Paper Notes---tfygg](https://github.com/tfygg/Deep-Learning-Paper-Notes)                                    
 
 **NLP**                             
 [tensorflow practice/nlp---princewen](https://github.com/princewen/tensorflow_practice/tree/master/nlp)                                   
@@ -29,6 +30,7 @@
 [tensorflow practice/recommendation---princewen](https://github.com/princewen/tensorflow_practice/tree/master/recommendation)             
 [sequence based recommendations---rdevooght](https://github.com/rdevooght/sequence-based-recommendations)                                   
 [RecQ: A Python Framework for Recommender Systems (TensorFlow Based)---Coder-Yu](https://github.com/Coder-Yu/RecQ)                            
-[Recommender Systems---Microsoft](https://github.com/Microsoft/Recommenders)                                        
+[Recommender Systems---Microsoft](https://github.com/Microsoft/Recommenders)                                                   
+[Recommender System---fuhailin](https://github.com/fuhailin/Recommender-System)
  
 
