@@ -25,6 +25,7 @@
 [ZQCNN: 一款比mini-caffe更快的Forward库---zuoqing1988](https://github.com/zuoqing1988/ZQCNN)                                         
 [chineseocr: yolo3+ocr---chineseocr](https://github.com/chineseocr/chineseocr)                       
 [TextRecognitionDataGenerator: A synthetic data generator for text recognition ---Belval](https://github.com/Belval/TextRecognitionDataGenerator)                                       
+[insightface---deepinsight](https://github.com/deepinsight/insightface)                                                      
 
 **Recommendation**                                 
 [tensorflow practice/recommendation---princewen](https://github.com/princewen/tensorflow_practice/tree/master/recommendation)             
