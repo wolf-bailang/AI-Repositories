@@ -30,8 +30,7 @@
 [TextRecognitionDataGenerator: A synthetic data generator for text recognition ---Belval](https://github.com/Belval/TextRecognitionDataGenerator)                                       
 [insightface---deepinsight](https://github.com/deepinsight/insightface)                                                      
 [ExtremeNet--- xingyizhou](https://github.com/xingyizhou/ExtremeNet)                                                      
-[PixelAnnotationTool--- abreheret](https://github.com/abreheret/PixelAnnotationTool)                                        
-                                     
+[PixelAnnotationTool--- abreheret](https://github.com/abreheret/PixelAnnotationTool)                                                   
 [FastAnnotationTool--- christopher5106](https://github.com/christopher5106/FastAnnotationTool)                                          
   
 **Recommendation**                                 
