@@ -1,6 +1,6 @@
 **Deep Reinforcement Learning**                                                                                                  
-[Deep reinforcement learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) ____simoninithomas 
-[reinforcement learning an introduction(https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)____ShangtongZhang]  
+[Deep reinforcement learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) ____simoninithomas  
+[reinforcement learning an introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)____ShangtongZhang  
 [Reinforcement learning with tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)____MorvanZhou  
 [RL](https://github.com/princewen/tensorflow_practice/tree/master/RL)____princewen  
 [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)____openai  
