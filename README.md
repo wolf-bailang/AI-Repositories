@@ -1,13 +1,13 @@
 **Deep Reinforcement Learning**                                                                                                  
-[Deep reinforcement learning Course____simoninithomas](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)  
-[reinforcement learning an introduction____ShangtongZhang](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)  
-[Reinforcement learning with tensorflow____MorvanZhou](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)  
-[RL____princewen](https://github.com/princewen/tensorflow_practice/tree/master/RL)  
-[OpenAI Baselines: high-quality implementations of reinforcement learning algorithms____openai](https://github.com/openai/baselines)  
-[SURREAL: Open-Source Distributed Reinforcement Learning Framework____Stanford Vision and Learning Lab](https://github.com/SurrealAI/surreal)  
-[Deep Reinforcement Learning Algorithms with PyTorch____p-christ](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
-[DeepRL-Agents____Arthur Juliani](https://github.com/awjuliani/DeepRL-Agents)  
-[TensorFlow Reinforcement Learning___deepmind](https://github.com/deepmind/trfl)  
+[Deep reinforcement learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course) ____simoninithomas 
+[reinforcement learning an introduction(https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)____ShangtongZhang]  
+[Reinforcement learning with tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)____MorvanZhou  
+[RL](https://github.com/princewen/tensorflow_practice/tree/master/RL)____princewen  
+[OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)____openai  
+[SURREAL: Open-Source Distributed Reinforcement Learning Framework](https://github.com/SurrealAI/surreal)____Stanford Vision and Learning Lab  
+[Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)____p-christ  
+[DeepRL-Agents](https://github.com/awjuliani/DeepRL-Agents)____Arthur Juliani  
+[TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)___deepmind  
 
 **Deep Learning**                                          
 [Deep Learning 500 questions: 深度学习500问____scutan90](https://github.com/scutan90/DeepLearning-500-questions)  
