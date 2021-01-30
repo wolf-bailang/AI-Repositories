@@ -7,7 +7,11 @@
 [SURREAL: Open-Source Distributed Reinforcement Learning Framework](https://github.com/SurrealAI/surreal)____Stanford Vision and Learning Lab  
 [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)____p-christ  
 [DeepRL-Agents](https://github.com/awjuliani/DeepRL-Agents)____Arthur Juliani  
-[TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)___deepmind  
+[TensorFlow Reinforcement Learning](https://github.com/deepmind/trfl)___deepmind   
+[Deep-reinforcement-learning-with-pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)___sweetice  
+[Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)___PacktPublishing  
+[DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning)___AppliedDataSciencePartners  
+
 
 **Deep Learning**                                          
 [Deep Learning 500 questions: 深度学习500问____scutan90](https://github.com/scutan90/DeepLearning-500-questions)  
