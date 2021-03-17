@@ -16,54 +16,66 @@ Repositories|Author|description|
 -----|------|------|  
 
 **Deep Learning**                                          
-[Deep Learning 500 questions: 深度学习500问____scutan90](https://github.com/scutan90/DeepLearning-500-questions)  
-[Deep Learning Paper Notes____tfygg](https://github.com/tfygg/Deep-Learning-Paper-Notes)  
-[ncnn____Tencent](https://github.com/Tencent/ncnn)  
-[models____tensorflow](https://github.com/tensorflow/models)  
-
+Repositories|Author|description|    
+-----|------|------|  
+[Deep Learning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)|scutan90|深度学习500问|  
+[Deep Learning Paper Notes](https://github.com/tfygg/Deep-Learning-Paper-Notes)|tfygg|------|  
+[ncnn](https://github.com/Tencent/ncnn)|Tencent|------|  
+[models](https://github.com/tensorflow/models|tensorflow|------|  
+-----|------|------|   
 
 **NLP**                             
-[nlp____princewen](https://github.com/princewen/tensorflow_practice/tree/master/nlp)  
-[NLP Tutorials____MorvanZhou](https://github.com/MorvanZhou/NLP-Tutorials)  
-[NLP Papers____llhthinker](https://github.com/llhthinker/NLP-Papers)  
-[bert as service: Mapping a variable-length sentence to a fixed-length vector using BERT model____hanxiao](https://github.com/hanxiao/bert-as-service)  
-[Text_Classification____kk7nc](https://github.com/kk7nc/Text_Classification)  
-[BERT-keras___Separius](https://github.com/Separius/BERT-keras)  
-
+Repositories|Author|description|    
+-----|------|------|  
+[nlp](https://github.com/princewen/tensorflow_practice/tree/master/nlp)|princewen|------|  
+[NLP Tutorials](https://github.com/MorvanZhou/NLP-Tutorials)|MorvanZhou|------|  
+[NLP Papers](https://github.com/llhthinker/NLP-Papers)|llhthinker|------|  
+[bert as service](https://github.com/hanxiao/bert-as-service)|hanxiao|Mapping a variable-length sentence to a fixed-length vector using BERT model|  
+[Text_Classification](https://github.com/kk7nc/Text_Classification)|kk7nc|------|  
+[BERT-keras](https://github.com/Separius/BERT-keras)|Separius|------|   
+-----|------|------|  
 
 **GAN**                                    
-[GAN____princewen](https://github.com/princewen/tensorflow_practice/tree/master/GAN)
+Repositories|Author|description|    
+-----|------|------|  
+[GAN](https://github.com/princewen/tensorflow_practice/tree/master/GAN)|princewen|------|  
+-----|------|------|  
                                                            
 **Computer Vision**                            
-[CV____princewen](https://github.com/princewen/tensorflow_practice/tree/master/CV)  
-[ZQCNN: 一款比mini-caffe更快的Forward库____zuoqing1988](https://github.com/zuoqing1988/ZQCNN)  
-[chineseocr: yolo3+ocr____chineseocr](https://github.com/chineseocr/chineseocr)  
-[TextRecognitionDataGenerator: A synthetic data generator for text recognition____Belval](https://github.com/Belval/TextRecognitionDataGenerator)  
-[insightface____deepinsight](https://github.com/deepinsight/insightface)  
-[ExtremeNet____xingyizhou](https://github.com/xingyizhou/ExtremeNet)  
-[PixelAnnotationTool____abreheret](https://github.com/abreheret/PixelAnnotationTool)  
-[FastAnnotationTool____christopher5106](https://github.com/christopher5106/FastAnnotationTool)  
-[centerface____Star-Clouds](https://github.com/Star-Clouds/centerface)  
-[ssd_keras___pierluigiferrari](https://github.com/pierluigiferrari/ssd_keras)  
-[OCR___shgidi](https://github.com/shgidi/OCR)                                                                                      
-  
-  
-  
+Repositories|Author|description|    
+-----|------|------|  
+[CV](https://github.com/princewen/tensorflow_practice/tree/master/CV)|princewen|------|  
+[ZQCNN](https://github.com/zuoqing1988/ZQCNN)|zuoqing1988|一款比mini-caffe更快的Forward库|  
+[chineseocr](https://github.com/chineseocr/chineseocr)|chineseocr|yolo3+ocr|  
+[TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)|Belval|A synthetic data generator for text recognition|  
+[insightface](https://github.com/deepinsight/insightface)|deepinsight|------|  
+[ExtremeNet](https://github.com/xingyizhou/ExtremeNet)|xingyizhou|------|  
+[PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)|abreheret|------|  
+[FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)|christopher5106|------|  
+[centerface](https://github.com/Star-Clouds/centerface)|Star-Clouds|------|   
+[ssd_keras](https://github.com/pierluigiferrari/ssd_keras)|pierluigiferrari|------|  
+[OCR](https://github.com/shgidi/OCR)|shgidi|------|  
+-----|------|------|    
+
 **Recommendation**                                 
-[recommendation____princewen](https://github.com/princewen/tensorflow_practice/tree/master/recommendation)  
-[sequence based recommendations____rdevooght](https://github.com/rdevooght/sequence-based-recommendations)  
-[RecQ: A Python Framework for Recommender Systems (TensorFlow Based)____Coder-Yu](https://github.com/Coder-Yu/RecQ)  
-[Recommender Systems____Microsoft](https://github.com/Microsoft/Recommenders)  
-[Recommender System____fuhailin](https://github.com/fuhailin/Recommender-System)
- 
+Repositories|Author|description|    
+-----|------|------|  
+[recommendation](https://github.com/princewen/tensorflow_practice/tree/master/recommendation)|princewen|------|  
+[sequence based recommendations](https://github.com/rdevooght/sequence-based-recommendations)|rdevooght|------|  
+[RecQ](https://github.com/Coder-Yu/RecQ)|Coder-Yu|A Python Framework for Recommender Systems (TensorFlow Based)|  
+[Recommender Systems](https://github.com/Microsoft/Recommenders)|Microsoft|------|  
+[Recommender System](https://github.com/fuhailin/Recommender-System)|fuhailin|------|  
+-----|------|------|    
+
 **chatbot**                                                    
-[awesome chatbot list____fate233](https://github.com/fate233/awesome-chatbot-list)  
-[chatbot____zhaoyingjun](https://github.com/zhaoyingjun/chatbot)  
-[chaotbot_corpus_Chinese___fate233](https://github.com/fate233/chaotbot_corpus_Chinese)  
+Repositories|Author|description|    
+[awesome chatbot list](https://github.com/fate233/awesome-chatbot-list)|fate233|------|  
+[chatbot](https://github.com/zhaoyingjun/chatbot)|zhaoyingjun|------|  
+[chaotbot_corpus_Chinese](https://github.com/fate233/chaotbot_corpus_Chinese)|fate233|------|  
+-----|------|------|  
 
 **data augmentation**  
-Repositories |Author |description |    
------ | ------ | ------ |  
-[imgaug](https://github.com/aleju/imgaug) |aleju | |   
-|  |  |    
-|  |  |    
+Repositories|Author|description|    
+-----|------|------|  
+[imgaug](https://github.com/aleju/imgaug)|aleju|------|   
+-----|------|------|  
