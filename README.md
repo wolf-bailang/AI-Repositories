@@ -60,8 +60,8 @@
 [chaotbot_corpus_Chinese___fate233](https://github.com/fate233/chaotbot_corpus_Chinese)  
 
 **data augmentation**  
-num | repositories |  
+num | repositories | |  
 ---- | ----- | ------  
-1|[imgaug](https://github.com/aleju/imgaug)|   
-2|||    
-3|||    
+1|[imgaug](https://github.com/aleju/imgaug)| |   
+2| | |    
+3| | |    
