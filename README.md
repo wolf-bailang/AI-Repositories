@@ -62,7 +62,6 @@
 **data augmentation**  
 num | repositories |  
 ---- | ----- | ------  
-1|[imgaug](https://github.com/aleju/imgaug)|  
----- | ----- | ------  
+1|[imgaug](https://github.com/aleju/imgaug)|   
 2|||    
 3|||    
