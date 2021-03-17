@@ -21,7 +21,7 @@ Repositories|Author|description|
 [Deep Learning 500 questions](https://github.com/scutan90/DeepLearning-500-questions)|scutan90|深度学习500问|  
 [Deep Learning Paper Notes](https://github.com/tfygg/Deep-Learning-Paper-Notes)|tfygg|------|  
 [ncnn](https://github.com/Tencent/ncnn)|Tencent|------|  
-[models](https://github.com/tensorflow/models|tensorflow|------|  
+[models](https://github.com/tensorflow/models)|tensorflow|------|  
 -----|------|------|   
 
 **NLP**                             
@@ -69,6 +69,7 @@ Repositories|Author|description|
 
 **chatbot**                                                    
 Repositories|Author|description|    
+-----|------|------|  
 [awesome chatbot list](https://github.com/fate233/awesome-chatbot-list)|fate233|------|  
 [chatbot](https://github.com/zhaoyingjun/chatbot)|zhaoyingjun|------|  
 [chaotbot_corpus_Chinese](https://github.com/fate233/chaotbot_corpus_Chinese)|fate233|------|  
