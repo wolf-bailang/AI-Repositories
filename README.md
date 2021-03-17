@@ -59,3 +59,9 @@
 [chatbot____zhaoyingjun](https://github.com/zhaoyingjun/chatbot)  
 [chaotbot_corpus_Chinese___fate233](https://github.com/fate233/chaotbot_corpus_Chinese)  
 
+**data augmentation**  
+num | repositories | link
+---- | ----- | ------
+1. | imgaug | (https://github.com/aleju/imgaug)  
+2. |  |  |  
+3. |  |  |  
