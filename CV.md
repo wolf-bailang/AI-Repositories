@@ -11,5 +11,6 @@ Repositories|Author|description|
 [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)|christopher5106|------|  
 [centerface](https://github.com/Star-Clouds/centerface)|Star-Clouds|------|   
 [ssd_keras](https://github.com/pierluigiferrari/ssd_keras)|pierluigiferrari|------|  
-[OCR](https://github.com/shgidi/OCR)|shgidi|------|  
+[OCR](https://github.com/shgidi/OCR)|shgidi|------|
+[Gaze Tracking](https://github.com/antoinelame/GazeTracking)|antoinelame|Eye Tracking library|   
 -----|------|------|    
