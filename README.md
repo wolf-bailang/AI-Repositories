@@ -1,11 +1,12 @@
-**CV**  
-**DL**  
-**DRL**  
-**Data Augmentation**  
+**GNN**  
 **GAN**  
-**NLP**  
-**Recommendation**  
-**Robot**  
 **Contrastive Learning**  
 **Incremental Learning**  
 **Meta Learning**  
+**CV**  
+**DL**  
+**DRL**  
+**NLP**  
+**Recommendation**  
+**Robot**  
+**Data Augmentation**
