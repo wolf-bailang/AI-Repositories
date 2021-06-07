@@ -13,4 +13,12 @@ Repositories|Author|description|
 [Deep-reinforcement-learning-with-pytorch](https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch)|sweetice|------|  
 [Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)|PacktPublishing|------|  
 [DeepReinforcementLearning](https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning)|AppliedDataSciencePartners|------|  
+[acme](https://github.com/deepmind/acme)|DeepMind|Acme is a library of reinforcement learning (RL) agents and agent building blocks.|  
+[modular-rl](https://github.com/huangwl18/modular-rl?utm_source=catalyzex.com)|huangwl18|One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control|  
+[leedeeprl-notes](https://github.com/datawhalechina/leedeeprl-notes)|datawhalechina|------|  
+[RL-Implementation](https://github.com/feidieufo/RL-Implementation/blob/master/algos/ppo/run_ppo_torch.py)|feidieufo|------|  
+[curl](https://github.com/MishaLaskin/curl)|MishaLaskin|CURL: Contrastive Unsupervised Representation Learning for Sample-Efficient Reinforcement Learning|  
+[Soft Actor-Critic](https://github.com/rail-berkeley/softlearning?utm_source=catalyzex.com)|rail-berkeley|Softlearning is a reinforcement learning framework for training maximum entropy policies in continuous domains. Includes the official implementation of the Soft Actor-Critic algorithm.|  
+[ReAgent](https://github.com/facebookresearch/ReAgent?utm_source=catalyzex.com)|facebookresearch|A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)|  
+[ai-economist](https://github.com/salesforce/ai-economist)|salesforce|Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist|  
 -----|------|------|  
