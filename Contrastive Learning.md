@@ -10,4 +10,8 @@ Repositories|Author|description|
 [SimSiam]()|------|------|   
 [SimCSE](https://github.com/princeton-nlp/SimCSE)|princeton-nlp|SimCSE: Simple Contrastive Learning of Sentence Embeddings|   
 [SimCSE](https://github.com/bojone/SimCSE)|bojone|SimCSE|     
+[CLEA](https://github.com/QYQ-bot/CLEA)|QYQ-bot|The World is Binary: Contrastive Learning for Denoising Next Basket Recommendation|  
+[Cluster Contrast ReID](https://github.com/alibaba/cluster-contrast-reid)|alibaba|Cluster Contrast for Unsupervised Person Re-Identification|  
+[SAP-samples](https://github.com/SAP-samples/)||Contrastive Self-Supervised Learning for Commonsense Reasoning|  
+[]()||------|  
 -----|------|------| 
